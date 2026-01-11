@@ -1,6 +1,6 @@
 <div align="center">
 
-# ☕ Brew & Bloom
+# ☕ Brew & Bloom 🌸
 
 ### *Freshly Brewed Happiness*
 
